@@ -1,4 +1,5 @@
 class LineAnalyzer
+class Popper
    
 
   def calculate_word_frequency(stringdata,linecount)
